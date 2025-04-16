@@ -1,7 +1,7 @@
 # WebBrowser v1.0
 
-# NOte
-`` More Updates and Versions Coming soon... for **all**  ``
+**NOte**
+`` More Updates and Versions Coming soon... for ``all``  ``
 
 # Requirements
 ```
