@@ -8,6 +8,11 @@ apt-get install python3-pip
 pip install PyQt5 PyQtWebEngine
 ```
 
+# Android and Mac OS
+
+> Coming soon...
+
+
 # Linux
 
 > Download : https://www.mediafire.com/file/tzelcg3dp6ki82d/WebBrowser.deb
